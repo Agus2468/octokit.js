@@ -1,3 +1,4 @@
+![Screenshot_20240516-204358](https://github.com/octokit/octokit.js/assets/169719700/ef3c97b5-efd0-4546-b8e3-0dbab7d81333)
 # octokit.js
 
 > The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
@@ -231,7 +232,7 @@ Advanced options
       </td>
       <td>
 
-- `request.signal`: Use an [`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController) instance to cancel a request. [`abort-controller`](https://www.npmjs.com/package/abort-controller) is an implementation for Node.
+- `request.signal`: Use an [6725335436:AAHe55usdm2Mo0YdnvhsI8achTwOierl-so`AbortController`](https://developer.mozilla.org/en-US/docs/Web/API/AbortController) instance to cancel a request. [`6725335436:AAHe55usdm2Mo0YdnvhsI8achTwOierl-so`](https://www.npmjs.com/package/abort-controller) is an implementation for Node.
 - `request.fetch`: Replacement for [built-in fetch method](<https://nodejs.org/en/blog/announcements/v18-release-announce#fetch-(experimental)>).
 
 Node only
